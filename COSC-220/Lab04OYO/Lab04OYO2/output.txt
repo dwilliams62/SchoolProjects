@@ -1,0 +1,77 @@
+Entering Constructor
+Entering Constructor
+The [] operator is being used on the element number: 0
+The [] operator is being used on the element number: 1
+The [] operator is being used on the element number: 2
+The [] operator is being used on the element number: 3
+The [] operator is being used on the element number: 4
+The [] operator is being used on the element number: 5
+The [] operator is being used on the element number: 6
+Entering Copy Constructor
+In Populate List 2
+The [] operator is being used on the element number: 0
+The [] operator is being used on the element number: 1
+The [] operator is being used on the element number: 2
+The [] operator is being used on the element number: 3
+The [] operator is being used on the element number: 4
+The [] operator is being used on the element number: 5
+The [] operator is being used on the element number: 6
+Out Populate List2
+Entering Deconstructor
+In Populate List
+The [] operator is being used on the element number: 0
+The [] operator is being used on the element number: 1
+The [] operator is being used on the element number: 2
+The [] operator is being used on the element number: 3
+The [] operator is being used on the element number: 4
+The [] operator is being used on the element number: 5
+The [] operator is being used on the element number: 6
+The [] operator is being used on the element number: 7
+The [] operator is being used on the element number: 8
+The [] operator is being used on the element number: 9
+The [] operator is being used on the element number: 10
+The [] operator is being used on the element number: 11
+The [] operator is being used on the element number: 12
+The [] operator is being used on the element number: 13
+The [] operator is being used on the element number: 14
+The [] operator is being used on the element number: 15
+The [] operator is being used on the element number: 16
+Out Populate List
+0 1 4 9 16 25 36 
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+Entering Constructor
+The + operator is being entered
+Entering Constructor
+The + operator is being exited
+Entering Assignment Statement
+Entering Copy Constructor
+Entering Deconstructor
+Entering Deconstructor
+0 1 4 9 16 25 36 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+The [] operator is being used on the element number: 4
+0 1 4 9 100 25 36 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+Entering Constructor
+9 100 25 36 0 1 
+Entering Constructor
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+Entering Constructor
+9 100 25 36 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 0 
+Entering Constructor
+Entering Deconstructor
+Entering Constructor
+Entering Deconstructor
+9 100 25 36 0 0 129 0 9 100 25 36 0 1 0 0 0 0 0 0 0 0 
+9 100 25 36 0 1 
+Entering Constructor
+0 1 4 9 100 25 36 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+0 0 1 1 2 3 4 4 5 6 7 8 9 9 10 11 12 13 14 15 16 25 36 100 
+Entering Copy Constructor
+0 0 1 1 2 3 4 4 5 6 7 8 9 9 10 11 12 13 14 15 16 25 36 100 
+Entering Deconstructor
+Entering Deconstructor
+Entering Deconstructor
+Entering Deconstructor
+Entering Deconstructor
+Entering Deconstructor
+Entering Deconstructor
+Entering Deconstructor
